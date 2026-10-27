@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-crevio.crevio",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Sales", "Finance & Accounting", "Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/creviolabs/n8n-nodes-crevio?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/creviolabs/n8n-nodes-crevio?tab=readme-ov-file"
+			}
+		]
+	}
+}
