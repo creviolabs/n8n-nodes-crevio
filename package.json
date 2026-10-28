@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-crevio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n nodes for Crevio: customers, products, orders, checkouts, bookings, the Crevio AI agent, and a trigger for Crevio events",
   "license": "MIT",
   "homepage": "https://github.com/creviolabs/n8n-nodes-crevio#readme",
